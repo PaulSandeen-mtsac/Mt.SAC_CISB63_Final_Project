@@ -7,3 +7,5 @@ Title: The title of the article on wikiHow.
 Headline: The summary of the steps in the step-by-step description.
 Text: The body of the article containing step-by-step directions.
 This project will use Natural Language Processing (NLP) techniques to analyze the articles in the wikiHow Dataset to identify related topics and provide summarization of the articles.
+
+Download data file: https://github.com/mahnazkoupaee/WikiHow-Dataset
